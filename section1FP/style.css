@@ -1,4 +1,20 @@
+h1{font-family: "Avenir Next"; font-size: 30pt;}
+
 body{
-    background-color:antiquewhite;
-    color:blueviolet
+    background-color:white;
+    color:black
+}
+
+#sushi_plate{
+    max-width: 100%;
+    height: auto;
+    background-color: red;
+}
+
+#sushi_plate img {
+    width: 100%;
+}
+
+#sushi_store img{
+    width: 100%;
 }

@@ -172,7 +172,7 @@ a {
     font-size: 35pt;
     font-weight: bold;
     text-align:center;
-    padding-top: 150px;
+    padding-top: 100px;
     padding-bottom: 20px;
 }
 
@@ -180,4 +180,8 @@ a {
    margin-left: auto;
    margin-right: auto;
    display: block;
+}
+
+#linktosphia{
+    text-align:center;
 }

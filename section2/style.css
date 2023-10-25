@@ -7,7 +7,7 @@ html, body {
   margin-top: 3vh;
   width: auto;
   height: auto;
-  font-size: 5vw;;
+  font-size: 4vw;;
   /* text-align:center; */
   font-family: "Arial Black";
 }
@@ -85,13 +85,13 @@ html, body {
 
 #chef{
   padding-top: 5vh;
-  margin-left: 30vw;
+  margin-left: 45vw;
   width: 30vw;
   }
 
 #chef_text{
   font-size: 2vw;
-  margin-left: 30vw;
+  margin-left: 40vw;
   margin-top: 5px;
 }
 

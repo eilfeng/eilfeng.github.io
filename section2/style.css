@@ -18,11 +18,11 @@ html, body {
 
 #cover {
     opacity: 0;
-    position: fixed;
+    position: absolute;
     top: 0;
     left: 0;
     width: 100vw;
-    height: 100vh;
+    height: 200vh;
     color: white;
   }
   

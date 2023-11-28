@@ -1,0 +1,80 @@
+#background {
+    height: 4000px;
+    /* background: linear-gradient(180deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%); */
+    /* background: linear-gradient(180deg, rgba(189, 186, 185, 0.8) 0%, rgba(255,0,0,0) 51%, #2cb5e8 75%); */
+    background: #22c1c3;
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(234,200,226,1) 36%, rgba(216,215,178,1) 72%, rgba(179,179,179,1) 100%);
+}
+
+#miserable{
+    padding-top: 200px;
+    text-align: center;
+    font-family: arial, sans-serif;
+    font-size: 8vh;
+}
+
+#grind{
+    padding-top: 200px;
+    text-align: center;
+    font-family: arial, sans-serif;
+    font-size: 8vh;
+    margin-top: 300px;
+}
+
+#feet{
+    padding-top: 300px;
+    text-align: center;
+    font-family: arial, sans-serif;
+    font-size: 8vh;
+    margin-top: 300px;
+    padding-bottom: 300px;
+}
+
+#joygaze{
+    text-align: center;
+    /* font-family: arial, sans-serif; */
+    /* font-family: 'Poppins', sans-serif; */
+    font-family:'Playfair Display', serif;
+    font-style: italic;
+    font-size: 6vh;
+    margin-top: 50px;
+}
+
+#line {
+    margin-left: calc(50vw - 3px);
+    width: 6px;
+    height: 550px;
+    background-color: grey;
+  }
+  
+.reminder-button {
+    display: block;
+    margin-left: calc(50vw - 200px);
+    width: 400px;
+    border-radius: 90px;
+    width: 400px;
+  }
+
+#demo img {
+    margin-left: calc(50vw - 150px);
+    width: 300px;
+    height: auto;
+    position: relative;
+    margin-top: 40px;
+    border-radius: 50px;
+}
+
+a img {
+    display: block;
+    margin-left: calc(50vw - 200px);
+    width: 400px;
+    height: auto;
+    position: relative;
+    border-radius: 90px;
+    width: 400px;
+    height: auto;
+  }
+    
+  <style>
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+</style>

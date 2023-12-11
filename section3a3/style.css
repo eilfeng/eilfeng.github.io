@@ -17,8 +17,8 @@ canvas {
     position: relative;
   }
 
-#instruction img:hover{
-    content: url(chanelBag.png)
+#instruction img :hover{
+    content: url(chanelBag.png);
 }
 
 #instruction img{

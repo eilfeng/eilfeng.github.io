@@ -1,0 +1,38 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+canvas {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+#instruction{
+    width:600px;
+    text-align:center;
+    font-family:monospace;
+    background:white;
+    position: relative;
+  }
+
+#instruction img:hover{
+    content: url(chanelBag.png)
+}
+
+#instruction img{
+  width:30%;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+  
+.center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+  }
+  
+  

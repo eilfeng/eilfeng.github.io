@@ -49,14 +49,17 @@ body {
 
 #title {
   font-family: 'Varela Round', sans-serif;
-  font-size: 3vw;
+  font-size: 1vw;
   color: #f53d8d;
-  margin: 10px;
+  margin-left: 2vh;
+  margin-bottom:10px;
 }
 
-/* #subtitle{
+#subtitle{
   font-family: 'Varela Round', sans-serif;
   font-size: 2vw;
   color: #f53d8d;
-} */
+  margin-left: 2vh;
+  margin-right: 9vh;
+}
 
